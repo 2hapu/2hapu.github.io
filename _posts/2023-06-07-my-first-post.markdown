@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  My first post
-date:   2023-06-08 16:39:37 +0300
+date:   2023-06-07 16:39:37 +0300
 categories: first
 tags: [블로그, 시작]
 ---
